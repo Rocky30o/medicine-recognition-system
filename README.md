@@ -123,7 +123,7 @@ This project is licensed under the [Open Source Initiative (OSI)](https://openso
 
 ## Contact Details
 
-Hema Kalyan Murapaka - [kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)<br>
+Hema Kalyan Murapaka - [ashmitkumar0007@gmail.com](ashmitkumar0007@gmail.com)<br>
 
 
 ## Acknowledgements
